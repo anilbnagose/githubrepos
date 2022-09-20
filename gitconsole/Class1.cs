@@ -8,5 +8,6 @@ namespace gitconsole
 {
     class Class1
     {
+       
     }
 }
